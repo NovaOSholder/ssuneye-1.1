@@ -7,5 +7,5 @@ REQUIRED LIBRARIES TO RUN THIS AI: NLTK, TextBlob
 You can download this using Pip.
 Download guide:
 
-''pip install nltk''
-''pip install textblob''
+```pip install nltk```
+```pip install textblob```
