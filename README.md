@@ -11,3 +11,5 @@ Download guide:
 ```pip install textblob```
 
 WARNING: THIS WORKS WITH PYTHON, YOU NEED TO INSTALL PYTHON TO RUN THIS AI!!!
+
+TO DOWNLOAD IT: https://www.python.org/downloads/
