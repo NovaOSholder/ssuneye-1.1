@@ -12,4 +12,6 @@ Download guide:
 
 WARNING: THIS WORKS WITH PYTHON, YOU NEED TO INSTALL PYTHON TO RUN THIS AI!!!
 
-TO DOWNLOAD IT: https://www.python.org/downloads/
+TO DOWNLOAD IT: https://www.python.org/downloads/ (Windows)
+
+OR: ```sudo apt update``` ```sudo apt install python3``` (Linux)
