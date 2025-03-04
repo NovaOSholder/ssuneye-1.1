@@ -9,3 +9,5 @@ Download guide:
 
 ```pip install nltk```
 ```pip install textblob```
+
+WARNING: THIS WORKS WITH PYTHON, YOU NEED TO INSTALL LATEST VERSION OF PYTHON TO RUN THIS AI!!!
