@@ -1,5 +1,5 @@
 # ssuneye-1.1
-An advanced version for Suneye 1, so whats new? Happyness mood is added to this project, maked a bit smarter, and thats all!
+An advanced version for Suneye 1, so whats new? Happyness mood is added to this project, maked a bit smarter, and its a new flagship model.
 
 
 REQUIRED LIBRARIES TO RUN THIS AI: NLTK, TextBlob
